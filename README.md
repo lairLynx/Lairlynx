@@ -10,11 +10,11 @@ I also build tools around the MES:
 - **Review applications** that let Equipment Engineers explore MES data.
 - **Admin tools** that speed up the MES team's daily tasks, so we can focus on improving the MES experience.
 
-**Day-to-day stack:** C# · Angular · Python · internal C# MES framework · SQL
+**Day-to-day stack:** C# · Angular · Python · internal C# MES framework · Oracle SQL
 
 ## What I build for fun
 
-### Personal finance
+### Apps
 - [**Lynx-Finance**](https://github.com/Lairlynx/Lynx-Finance): a self-hosted personal finance app (.NET API, Angular frontend, SQLite) with statement import, budgets, goals and a cash-flow forecast.
 
 ### Nintendo DS / DSi and handheld homebrew
@@ -23,8 +23,6 @@ Mostly C and C++ with [BlocksDS](https://blocksds.skylyrac.net/).
 - [**NDSi-Shop**](https://github.com/Lairlynx/NDSi-Shop): an alternative DS/DSi homebrew shop, built on [NDS-Shop-DSi](https://github.com/NDS-Shop-Homebrew/NDS-Shop-DSi) and Kekatsu.
 - [**PKGarden-DSi**](https://github.com/Lairlynx/PKGarden-DSi): a Pokémon chest for the DSi that moves Pokémon between Gen 3-5 saves. A fork of [pkmn-chest](https://github.com/Universal-Team/pkmn-chest).
 - [**PKGarden-Knulli**](https://github.com/Lairlynx/PKGarden-Knulli): the Gen 3 companion app for Knulli handhelds, sharing the same chest format.
-
-<!-- ADD A GIF OF LYNXIBEAR VALLEY HERE -->
 
 ## Tools
 
