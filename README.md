@@ -17,8 +17,9 @@ I also build tools around the MES:
 ### Apps
 - [**Lynx-Finance**](https://github.com/Lairlynx/Lynx-Finance): a self-hosted personal finance app (.NET API, Angular frontend, SQLite) with statement import, budgets, goals and a cash-flow forecast.
 
-### Nintendo DS / DSi and handheld homebrew
+### Nintendo DSi and handheld homebrew
 Mostly C and C++ with [BlocksDS](https://blocksds.skylyrac.net/).
+The DSi apps share a lairLynx Studios splash, release pipeline, and the PKGarden apps share one chest format
 - [**Lynxibear Valley**](https://github.com/Lairlynx/Lynxibear-DS): a cozy farming game for the DS with seasons, a town, touch-screen inventory and SD saves.
 - [**NDSi-Shop**](https://github.com/Lairlynx/NDSi-Shop): an alternative DS/DSi homebrew shop, built on [NDS-Shop-DSi](https://github.com/NDS-Shop-Homebrew/NDS-Shop-DSi) and Kekatsu.
 - [**PKGarden-DSi**](https://github.com/Lairlynx/PKGarden-DSi): a Pokémon chest for the DSi that moves Pokémon between Gen 3-5 saves. A fork of [pkmn-chest](https://github.com/Universal-Team/pkmn-chest).
